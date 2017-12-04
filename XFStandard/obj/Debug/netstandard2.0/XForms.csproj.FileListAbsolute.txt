@@ -1,0 +1,14 @@
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XForms.deps.json
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XForms.dll
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XForms.pdb
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XForms.Data.dll
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XForms.Data.pdb
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.csprojResolveAssemblyReference.cache
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.csproj.CoreCompileInputs.cache
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.App.xaml.g.cs
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.Views.StudentPage.xaml.g.cs
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.Views.XFSqliteIOCPage.xaml.g.cs
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.AssemblyInfoInputs.cache
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.AssemblyInfo.cs
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.dll
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XForms.pdb

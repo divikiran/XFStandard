@@ -1,0 +1,9 @@
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XFStandard.deps.json
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XFStandard.dll
+/Users/divikiranravela/Projects/XFStandard/XFStandard/bin/Debug/netstandard2.0/XFStandard.pdb
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XFStandard.csprojResolveAssemblyReference.cache
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XFStandard.csproj.CoreCompileInputs.cache
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XFStandard.AssemblyInfoInputs.cache
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XFStandard.AssemblyInfo.cs
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XFStandard.dll
+/Users/divikiranravela/Projects/XFStandard/XFStandard/obj/Debug/netstandard2.0/XFStandard.pdb

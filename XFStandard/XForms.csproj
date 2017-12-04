@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Remove="App.xaml" />
+		<None Remove="XFormsPage.xaml" />
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Update="App.xaml.cs">
+			<DependentUpon>App.xaml</DependentUpon>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Xamarin.Forms" Version="2.5.0.91635" />
+		<PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
+		<PackageReference Include="CommonServiceLocator" Version="2.0.1" />
+		<PackageReference Include="Unity" Version="5.3.2" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="ViewModels\" />
+	  <Folder Include="Views\" />
+	  <Folder Include="CustomControls\" />
+	  <Folder Include="Models\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\XForms.Data\XForms.Data.csproj" />
+	</ItemGroup>
+</Project>

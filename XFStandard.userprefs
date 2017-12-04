@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6CF1C6ED-C917-4821-9413-FD086F66ACC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="XFStandard/App.xaml.cs" Line="21" Column="1" />
+      <File FileName="XFStandard/Views/XFSqliteIOCPage.xaml.cs" Line="16" Column="1" />
+      <File FileName="XFStandard/Views/XFSqliteIOCPage.xaml" Line="36" Column="19" />
+      <File FileName="XFStandard/ViewModels/StudentsViewModel.cs" Line="11" Column="47" />
+      <File FileName="iOS/DbConnections/SQLiteiOSConnection.cs" Line="10" Column="32" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Clients.XForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.ED1FFF2C-FFA7-41F0-890D-9848DE173097" />
+  <MonoDevelop.Ide.ItemProperties.Clients.XForms.Droid PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/bin/Debug/netstandard2.0/XForms.Data.deps.json
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/bin/Debug/netstandard2.0/XForms.Data.dll
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/bin/Debug/netstandard2.0/XForms.Data.pdb
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/obj/Debug/netstandard2.0/XForms.Data.csproj.CoreCompileInputs.cache
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/obj/Debug/netstandard2.0/XForms.Data.AssemblyInfoInputs.cache
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/obj/Debug/netstandard2.0/XForms.Data.AssemblyInfo.cs
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/obj/Debug/netstandard2.0/XForms.Data.dll
+/Users/divikiranravela/Projects/XFStandard/XForms.Data/obj/Debug/netstandard2.0/XForms.Data.pdb

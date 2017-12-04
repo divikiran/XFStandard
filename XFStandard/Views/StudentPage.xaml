@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iocapp:BasePage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XForms.Views.StudentPage" xmlns:iocapp="clr-namespace:XForms;assembly=XForms">
+    <iocapp:BasePage.Content>
+        <StackLayout Padding="10">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Name" />
+                <Entry Text="{Binding Name}" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Location" />
+                <Entry Text="{Binding Location}" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Image URL" />
+                <Entry Text="{Binding Image}" HorizontalOptions="FillAndExpand" />
+            </StackLayout>
+            <Button Text="Save" Command="{Binding SaveStudentToLocalDb}" />
+
+            <Image Source="{Binding Image}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+        </StackLayout>
+
+
+    </iocapp:BasePage.Content>
+</iocapp:BasePage>
